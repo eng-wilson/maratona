@@ -2,4 +2,4 @@
 
 ## Challenges solutions with C / C++
 
-File name represents the challenge identifier number.
+Each file name represents the challenge identifier number.
